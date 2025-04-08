@@ -1,0 +1,40 @@
+nc: 33  # Total number of classes
+
+path: C:\Users\MSI\Documents\Thesis_Project\Automste_Testing_DeepSeek_Model\data
+train: images/train
+val: images/train
+
+names:
+  - First Name
+  - Second Name
+  - Age
+  - Gender
+  - Email
+  - School Name
+  - Address
+  - City
+  - Result
+  - Sophea
+  - Oudom
+  - '22'
+  - Male
+  - sopheaoudom@gmail.com
+  - Royal University of Phnom Penh
+  - Home 20 Street 99 Songkat BeoungTrabek Khan
+  - Phnom Penh, Cambodia
+  - Pass
+  - Som
+  - soDana
+  - '23'
+  - Female
+  - Sok
+  - cheapanha
+  - '21'
+  - Sun
+  - SengHeang
+  - dom@gmail.com
+  - dana@gmail.com
+  - Street 99 Home 20
+  - Phnom Penh
+  - St.99 Hm20
+  - P.Penh
